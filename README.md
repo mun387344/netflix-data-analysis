@@ -107,3 +107,14 @@ netflix-data-analysis/
 ├── Netflix_Movies_TV_Shows_Analysis.ipynb
 ├── netflix_titles.csv
 └── README.md
+
+ How to Run the Project
+Clone this repository.
+Open the Jupyter Notebook in Google Colab or Jupyter Notebook.
+Make sure the dataset is available in the project directory.
+Run the notebook cells from top to bottom.
+
+👩‍💻 Author
+Muna Mohammed Husen
+
+This project was completed as part of my data analysis learning journey and focuses on applying Python data analysis skills to a real-world dataset.
