@@ -10,7 +10,6 @@ The main question explored in this project is:
 
 The project follows a complete data analysis workflow, including data inspection, cleaning, exploration, visualization, and interpretation of results.
 
----
 
 ## 🎯 Objectives
 
@@ -18,8 +17,6 @@ The project follows a complete data analysis workflow, including data inspection
 - Compare the number of Movies and TV Shows.
 - Analyze how Netflix's content additions changed over time.
 - Practice a complete data analysis workflow using Python.
-
----
 
 ## 🛠️ Tools & Technologies
 
@@ -29,8 +26,6 @@ The project follows a complete data analysis workflow, including data inspection
 - Matplotlib
 - Google Colab
 - Jupyter Notebook
-
----
 
 ## 📊 Dataset
 
@@ -48,8 +43,6 @@ The dataset contains **8,807 Netflix titles** and **12 columns**, including info
 - Genre
 - Description
 
----
-
 ## 🧹 Data Cleaning
 
 The main cleaning steps included:
@@ -59,8 +52,6 @@ The main cleaning steps included:
 - Checking missing values.
 - Verifying that the date conversion was successful.
 - Preparing the relevant columns for analysis.
-
----
 
 ## 📈 Analysis & Visualizations
 
@@ -87,8 +78,6 @@ Both Movies and TV Shows increased significantly after 2015.
 
 Movie additions reached their highest level in 2019, while TV Show additions also increased considerably over time.
 
----
-
 ## 💡 Key Findings
 
 - Netflix's catalogue expanded rapidly after 2015.
@@ -96,8 +85,6 @@ Movie additions reached their highest level in 2019, while TV Show additions als
 - Movies make up the majority of the Netflix catalogue.
 - TV Shows became an increasingly important part of the catalogue over time.
 - The period between **2016 and 2019** showed particularly strong catalogue growth.
-
----
 
 ## 📂 Project Structure
 
@@ -107,8 +94,9 @@ netflix-data-analysis/
 ├── Netflix_Movies_TV_Shows_Analysis.ipynb
 ├── netflix_titles.csv
 └── README.md
+'''text
 
- How to Run the Project
+How to Run the Project
 Clone this repository.
 Open the Jupyter Notebook in Google Colab or Jupyter Notebook.
 Make sure the dataset is available in the project directory.
